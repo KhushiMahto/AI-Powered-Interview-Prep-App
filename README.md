@@ -29,23 +29,23 @@ Save sessions and questions securely for ongoing review and progress tracking.
 8.🎨 Clean, Responsive UI with Tailwind CSS<br>
 Experience a modern, mobile-friendly interface with smooth transitions and intuitive design.
 
-<h3>User Interface</h3><br>
+<h3>User Interface</h3>
 <h4>1. Main Page</h4>
-<img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/5083060baf97915b1ccb1f7a77f8e26f60de9d0f/InterviewPrepAI_Screenshots/MainPage.png"/>
+<img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/5083060baf97915b1ccb1f7a77f8e26f60de9d0f/InterviewPrepAI_Screenshots/MainPage.png"/><br>
 
-<h4>2. SignUp</h4><br>
-<img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/715310abb3b538a255c8cb1d6bfcda14ba9bce30/InterviewPrepAI_Screenshots/Signup.png"/>
+<h4>2. SignUp</h4>
+<img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/715310abb3b538a255c8cb1d6bfcda14ba9bce30/InterviewPrepAI_Screenshots/Signup.png"/><br>
 
-<h4>3. Login</h4><br>
-<img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/f862689376b1c29ff6b6eaa847f847caf1325b43/InterviewPrepAI_Screenshots/Login.png" />
+<h4>3. Login</h4>
+<img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/f862689376b1c29ff6b6eaa847f847caf1325b43/InterviewPrepAI_Screenshots/Login.png" /><br>
 
 <h4>4. Dashboard</h4>
-<img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/0c3a76892ae05db98af2fa3883c964f35735dc43/InterviewPrepAI_Screenshots/Dashboard.png" />
+<img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/0c3a76892ae05db98af2fa3883c964f35735dc43/InterviewPrepAI_Screenshots/Dashboard.png" /><br>
 
 <h4>5. Personalized Session Creation</h4>
-<img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/6f9894c11708c8225f9d5b2b7138b3bf777a78e1/InterviewPrepAI_Screenshots/SessionCreation.png" />
+<img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/6f9894c11708c8225f9d5b2b7138b3bf777a78e1/InterviewPrepAI_Screenshots/SessionCreation.png" /><br>
 
 <h4>6. AI Generated Q&A</h4>
-<img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/bbe2b582313e1e7866c736148b2e49ac06e34647/InterviewPrepAI_Screenshots/AIGeneratedQ%26A.png" />
+<img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/bbe2b582313e1e7866c736148b2e49ac06e34647/InterviewPrepAI_Screenshots/AIGeneratedQ%26A.png" /><br>
 
 
