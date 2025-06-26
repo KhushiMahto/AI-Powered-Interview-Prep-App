@@ -31,16 +31,21 @@ Experience a modern, mobile-friendly interface with smooth transitions and intui
 
 <h3>User Interface</h3>
 <h4>Main Page</h4>
+![image]()
 
 <h4>SignUp</h4>
+![image]()
 
 <h4>Login</h4>
+![image]()
 
 <h4>Dashboard</h4>
+![image]()
 
 <h4>Personalized Session Creation</h4>
+![image]()
 
 <h4>AI Generated Q&A</h4>
-
+![image]()
 
 
