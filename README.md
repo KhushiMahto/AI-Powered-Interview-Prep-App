@@ -30,23 +30,22 @@ Save sessions and questions securely for ongoing review and progress tracking.
 Experience a modern, mobile-friendly interface with smooth transitions and intuitive design.
 
 <h3>User Interface</h3>
-<h4>Main Page</h4>
+<h4>1.Main Page</h4>
 <img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/5083060baf97915b1ccb1f7a77f8e26f60de9d0f/InterviewPrepAI_Screenshots/MainPage.png"/>
 
-<h4>SignUp</h4>
+<h4>2.SignUp</h4>
 <img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/master/InterviewPrepAI_Screenshots/Signup.png?raw=true"/>
-<h4>Login</h4>
-![Image_Alt](https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/master/InterviewPrepAI_Screenshots/MainPage.png?raw=true)
 
-<h4>Dashboard</h4>
-![image](![image](https://github.com/user-attachments/assets/5df64e34-f8c7-44a1-b9d5-3b95b099aba2))
+<h4>3.Login</h4>
+<img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/f862689376b1c29ff6b6eaa847f847caf1325b43/InterviewPrepAI_Screenshots/Login.png" />
 
+<h4>4.Dashboard</h4>
+<img src="" />
 
-<h4>Personalized Session Creation</h4>
-![image](https://github.com/user-attachments/assets/28963363-0992-4c7a-b212-0d7b4a7a827a)
+<h4>5.Personalized Session Creation</h4>
+<img src="" />
 
-
-<h4>AI Generated Q&A</h4>
-![Image_Alt](image_url)
+<h4>6.AI Generated Q&A</h4>
+<img src="" />
 
 
