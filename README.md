@@ -4,6 +4,7 @@ This is a Full Stack Project in which I have build a smart AI-powered Interview 
 This application enables users to generate personalized interview questions and answers tailored to their role and experience, take notes, and review topics with AI-powered explanations.
 
 <h3>Key Features:</h3>
+
 1.🔐 Secure Authentication<br>
 Sign up and log in with JWT-based authentication to ensure safe and personalized access.
 
