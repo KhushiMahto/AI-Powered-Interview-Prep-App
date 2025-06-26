@@ -44,7 +44,8 @@ Experience a modern, mobile-friendly interface with smooth transitions and intui
 
 
 <h4>Personalized Session Creation</h4>
-![Image_Alt](image_url)
+![image](https://github.com/user-attachments/assets/28963363-0992-4c7a-b212-0d7b4a7a827a)
+
 
 <h4>AI Generated Q&A</h4>
 ![Image_Alt](image_url)
