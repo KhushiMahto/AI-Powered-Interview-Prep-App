@@ -46,6 +46,6 @@ Experience a modern, mobile-friendly interface with smooth transitions and intui
 <img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/6f9894c11708c8225f9d5b2b7138b3bf777a78e1/InterviewPrepAI_Screenshots/SessionCreation.png" />
 
 <h4>6. AI Generated Q&A</h4>
-<img src="" />
+<img src="https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/bbe2b582313e1e7866c736148b2e49ac06e34647/InterviewPrepAI_Screenshots/AIGeneratedQ%26A.png" />
 
 
