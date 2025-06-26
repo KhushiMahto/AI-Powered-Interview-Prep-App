@@ -40,7 +40,7 @@ Experience a modern, mobile-friendly interface with smooth transitions and intui
 ![Image_Alt](https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/master/InterviewPrepAI_Screenshots/MainPage.png?raw=true)
 
 <h4>Dashboard</h4>
-![image](https://github.com/user-attachments/assets/5df64e34-f8c7-44a1-b9d5-3b95b099aba2)
+![image](![image](https://github.com/user-attachments/assets/5df64e34-f8c7-44a1-b9d5-3b95b099aba2))
 
 
 <h4>Personalized Session Creation</h4>
