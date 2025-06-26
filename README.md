@@ -31,7 +31,7 @@ Experience a modern, mobile-friendly interface with smooth transitions and intui
 
 <h3>User Interface</h3>
 <h4>Main Page</h4>
-![image](https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/cb99f5e5ac879819a978129642b3eec312220a23/InterviewPrepAI_Screenshots/MainPage.png)
+![Image](https://github.com/KhushiMahto/AI-Powered-Interview-Prep-App/blob/cb99f5e5ac879819a978129642b3eec312220a23/InterviewPrepAI_Screenshots/MainPage.png)
 
 <h4>SignUp</h4>
 ![image]()
